@@ -46,6 +46,29 @@ Based on the above description => identify the problem:
 
 ![image](https://user-images.githubusercontent.com/91864024/181464501-1f21369b-f579-4ba8-9fbe-7b00d700728a.png)
 
+### 4. Prediction
+#### A. Predict an Eagle
+
+![image](https://user-images.githubusercontent.com/91864024/181471335-8e6bf264-e040-4687-97b2-51920203229c.png)
+
+![image](https://user-images.githubusercontent.com/91864024/181471463-898a0a5c-8776-4644-bc16-c0b8fa6168c7.png)
+
+#### B. Predict an Owl
+![image](https://user-images.githubusercontent.com/91864024/181471606-001ffccb-891d-4903-a27e-0f87c0b43b77.png)
+
+![image](https://user-images.githubusercontent.com/91864024/181471658-9e44b81e-be90-4c3d-8e11-d149899e95c4.png)
+
+![image](https://user-images.githubusercontent.com/91864024/181472414-01ef8dd9-a1ab-438d-9d41-5c68d2396bf4.png)
+
+### 5. Conclusion
+- Model can be used to classify the eagle and owl
+- We can give this model to audio and image engineers to perform next step for further business.
+
+Thank you for your experience with my project. Hope you enjoy it!
+
+
+
+
 
 
 
