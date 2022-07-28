@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/91864024/181451237-d51b1c4d-9fdd-45ef-b1c9-97e7f37909f5.png)
 
-# Eagle and owl classification using CNN and Transfer Learning
+# Eagle and owl classification using CNN and Transfer Learning VGG16
 ## I. Outline
 - People have always been fascinated with owls and eagles, which haven’t changed over time. Both of these are aggressive birds that are known to combat and protect their territory. 
 - However, eagles are considerably more powerful and more sturdy than owls. Also, they are larger and weigh more than owls.
@@ -25,8 +25,8 @@ Based on the above description => identify the problem:
 
 ![image](https://user-images.githubusercontent.com/91864024/181462904-35f42152-d0b5-4df2-9250-2ae674516140.png)
 
-### 3. Build model
-
+### 3. Build model (CNN model)
+#### 3.1. Build CNN model (without transfer learning VGG16)
 **Init CNN model**
 
 ![image](https://user-images.githubusercontent.com/91864024/181463928-a6a61e7f-31a7-4f49-8010-1453a170b432.png)
@@ -47,7 +47,7 @@ Based on the above description => identify the problem:
 
 ![image](https://user-images.githubusercontent.com/91864024/181464501-1f21369b-f579-4ba8-9fbe-7b00d700728a.png)
 
-### 4. Prediction
+#### 3.2. Prediction
 #### A. Predict an Eagle
 
 ![image](https://user-images.githubusercontent.com/91864024/181471335-8e6bf264-e040-4687-97b2-51920203229c.png)
@@ -59,13 +59,7 @@ Based on the above description => identify the problem:
 
 ![image](https://user-images.githubusercontent.com/91864024/181471658-9e44b81e-be90-4c3d-8e11-d149899e95c4.png)
 
-![image](https://user-images.githubusercontent.com/91864024/181472414-01ef8dd9-a1ab-438d-9d41-5c68d2396bf4.png)
 
-### 5. Conclusion
-- Model can be used to classify the eagle and owl
-- We can give this model to audio and image engineers to perform next step for further business.
-
-Thank you for your experience with my project. Hope you enjoy it!
 
 
 
