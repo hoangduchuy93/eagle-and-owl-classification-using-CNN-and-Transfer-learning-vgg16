@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/91864024/181451237-d51b1c4d-9fdd-45ef-b1c9-97e7f37909f5.png)
 
-# Eagle and owl classification using CNN
+# Eagle and owl classification using CNN and Transfer Learning
 ## I. Outline
 - People have always been fascinated with owls and eagles, which haven’t changed over time. Both of these are aggressive birds that are known to combat and protect their territory. 
 - However, eagles are considerably more powerful and more sturdy than owls. Also, they are larger and weigh more than owls.
@@ -17,10 +17,11 @@
 Based on the above description => identify the problem:
 - Find methods to classify eagle and owl based on their physical characteristics
 - Objectives/problems: build a classification model to classify these 2 species for further purpose.
-- Applied method: CNN model
+- Applied method: CNN model, Transfer Learning vgg16
 ### 2. Data Understanding/ Acquire
 - Image data of the above 2 birds are downloaded from many sources for learning purposes
-- 5937 images for training and 1340 for testing.
+- image folder: incuding 5937 images for training and 1340 for testing.
+- image_small: including 200 images for training and 100 images for testing.
 
 ![image](https://user-images.githubusercontent.com/91864024/181462904-35f42152-d0b5-4df2-9250-2ae674516140.png)
 
